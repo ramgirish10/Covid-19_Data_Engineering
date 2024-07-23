@@ -1,7 +1,7 @@
-# 📊 COVID-19 Data Analysis Project
+# 📊 COVID-19 Data Engineering Project
 
 ## 📝 Overview
-This project focuses on analyzing COVID-19 data using AWS services to provide insights and visualizations. The project involves ingesting data from various sources, transforming it, and making it available for analysis and reporting. 
+This project analyses COVID-19 data using AWS services to provide insights and visualizations. The project involves ingesting data from various sources, transforming it, and making it available for analysis and reporting. 
 
 ## 🛠️ Tools and Steps
 
