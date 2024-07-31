@@ -73,3 +73,8 @@ This project sets up a comprehensive data pipeline using AWS services for ingest
 ## 📷 Architecture Diagram
 This diagram outlines the flow of data from ingestion to visualization using various AWS services, ensuring secure, scalable, and efficient data analysis.
 
+## 📸 Screenshots
+![Screenshot 2024-07-22 114447](https://github.com/user-attachments/assets/523b7513-c80f-43f2-bd69-74536004236c)
+![Screenshot 2024-07-22 114550](https://github.com/user-attachments/assets/dd6ee3ac-682d-419e-9b1f-31a5fdc14d67)
+
+
